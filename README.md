@@ -1,5 +1,5 @@
 # send-message-linkedin
-This script is designed to send a message automatically to Linkedin users, just by setting their user profile:
+This script is designed to send a message automatically to Linkedin users, just by setting their user profile, it's designed by me that is why the comment are in french, when I will have time I will update comment to english 
 
 just set : 
 your email on line : #9
