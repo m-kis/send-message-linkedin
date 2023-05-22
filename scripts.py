@@ -14,7 +14,7 @@ profiles = [
     "https://www.linkedin.com/in/username/",
 ]
 
-# Configuration du navigateur (Chrome ici)
+# Configuration du navigateur (Chrome ici) changez le chemin du driver
 browser = webdriver.Chrome(service=Service("/Users/cedric/Downloads/chromedriver_mac_arm64/chromedriver"))
 def is_logged_in():
     try:
